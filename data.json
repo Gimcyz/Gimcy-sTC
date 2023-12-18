@@ -1,0 +1,167 @@
+{
+  "picBed": {
+    "current": "github",
+    "uploader": "github",
+    "smms": {
+      "token": "",
+      "_configName": "Default",
+      "_id": "594b72ae-b8cb-4740-bdf8-ec5b4cfe03a3",
+      "_createdAt": 1694785597833,
+      "_updatedAt": 1694785597833
+    },
+    "tcyun": {
+      "_configName": "Default",
+      "_id": "3b69997b-40b5-4101-a1b7-47a8f0709afb",
+      "_createdAt": 1694785594382,
+      "_updatedAt": 1694785594382
+    },
+    "aliyun": {
+      "_configName": "Default",
+      "_id": "00a8daa3-0f2c-4f67-a498-feb6cb89d0e0",
+      "_createdAt": 1694785596714,
+      "_updatedAt": 1694785596714
+    },
+    "github": {
+      "_configName": "Github",
+      "token": "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",
+      "repo": "1245012227/Gimcy-sTC",
+      "branch": "main",
+      "path": "piglist/",
+      "_id": "9239bc1c-565a-4a9b-bc6d-64286e2381c0",
+      "_createdAt": 1702862834715,
+      "_updatedAt": 1702862834715
+    },
+    "qiniu": {
+      "_configName": "Default",
+      "_id": "b562a16d-0c35-4efd-b15f-06ac5af194c1",
+      "_createdAt": 1694785599304,
+      "_updatedAt": 1694785872161,
+      "accessKey": "UY6jjTxLaAMuevNV7O5woT0mpaMXsrik434NYpL8",
+      "secretKey": "Kn8nqHsN7pahaCAB0N2LD-JNVY6aZkhXJg7odR2z",
+      "bucket": "gimcy-tc",
+      "url": "https://tc.gimcy.vip/",
+      "area": "z2",
+      "options": "",
+      "path": "Obsidian/"
+    },
+    "piclist": {
+      "_configName": "Default",
+      "_id": "20f6e3a1-12df-4396-80eb-7e795449debe",
+      "_createdAt": 1702862952056,
+      "_updatedAt": 1702862952056
+    }
+  },
+  "settings": {
+    "shortKey": {
+      "picgo:upload": {
+        "enable": true,
+        "key": "CommandOrControl+Shift+P",
+        "name": "upload",
+        "label": "QUICK_UPLOAD"
+      }
+    },
+    "isListeningClipboard": false,
+    "showUpdateTip": true,
+    "miniWindowPosition": [
+      1408,
+      596
+    ],
+    "sync": {
+      "type": "github",
+      "username": "1245012227",
+      "repo": "Gimcy-sTC",
+      "branch": "main",
+      "token": "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",
+      "endpoint": "",
+      "proxy": "",
+      "interval": 60
+    }
+  },
+  "needReload": false,
+  "uploader": {
+    "tcyun": {
+      "configList": [
+        {
+          "_configName": "Default",
+          "_id": "3b69997b-40b5-4101-a1b7-47a8f0709afb",
+          "_createdAt": 1694785594382,
+          "_updatedAt": 1694785594382
+        }
+      ],
+      "defaultId": "3b69997b-40b5-4101-a1b7-47a8f0709afb"
+    },
+    "aliyun": {
+      "configList": [
+        {
+          "_configName": "Default",
+          "_id": "00a8daa3-0f2c-4f67-a498-feb6cb89d0e0",
+          "_createdAt": 1694785596714,
+          "_updatedAt": 1694785596714
+        }
+      ],
+      "defaultId": "00a8daa3-0f2c-4f67-a498-feb6cb89d0e0"
+    },
+    "smms": {
+      "configList": [
+        {
+          "token": "",
+          "_configName": "Default",
+          "_id": "594b72ae-b8cb-4740-bdf8-ec5b4cfe03a3",
+          "_createdAt": 1694785597833,
+          "_updatedAt": 1694785597833
+        }
+      ],
+      "defaultId": "594b72ae-b8cb-4740-bdf8-ec5b4cfe03a3"
+    },
+    "github": {
+      "configList": [
+        {
+          "_configName": "Default",
+          "_id": "341f26de-a94c-4037-b624-a411ba17156a",
+          "_createdAt": 1694785598394,
+          "_updatedAt": 1694785598394
+        },
+        {
+          "_configName": "Github",
+          "token": "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",
+          "repo": "1245012227/Gimcy-sTC",
+          "branch": "main",
+          "path": "piglist/",
+          "_id": "9239bc1c-565a-4a9b-bc6d-64286e2381c0",
+          "_createdAt": 1702862834715,
+          "_updatedAt": 1702862834715
+        }
+      ],
+      "defaultId": "9239bc1c-565a-4a9b-bc6d-64286e2381c0"
+    },
+    "qiniu": {
+      "configList": [
+        {
+          "_configName": "Default",
+          "_id": "b562a16d-0c35-4efd-b15f-06ac5af194c1",
+          "_createdAt": 1694785599304,
+          "_updatedAt": 1694785872161,
+          "accessKey": "UY6jjTxLaAMuevNV7O5woT0mpaMXsrik434NYpL8",
+          "secretKey": "Kn8nqHsN7pahaCAB0N2LD-JNVY6aZkhXJg7odR2z",
+          "bucket": "gimcy-tc",
+          "url": "https://tc.gimcy.vip/",
+          "area": "z2",
+          "options": "",
+          "path": "Obsidian/"
+        }
+      ],
+      "defaultId": "b562a16d-0c35-4efd-b15f-06ac5af194c1"
+    },
+    "piclist": {
+      "configList": [
+        {
+          "_configName": "Default",
+          "_id": "20f6e3a1-12df-4396-80eb-7e795449debe",
+          "_createdAt": 1702862952056,
+          "_updatedAt": 1702862952056
+        }
+      ],
+      "defaultId": "20f6e3a1-12df-4396-80eb-7e795449debe"
+    }
+  }
+}
